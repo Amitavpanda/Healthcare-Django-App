@@ -1,0 +1,16 @@
+{
+  "name": "healthCareApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build:css": "tailwind build static/thehealth/css/main.css -o static/thehealth/css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
